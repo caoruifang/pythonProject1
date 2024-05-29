@@ -8,7 +8,7 @@
 测试python中git的用法
 """
 print("1")
-print("1")
+
 
 
 
